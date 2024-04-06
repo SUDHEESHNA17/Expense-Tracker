@@ -2,7 +2,9 @@
 Expense Tracker is a web-based application for tracking and managing personal expenses.This project allows users to categorize their expenses,view total expenses by category, and clear all recorded expenses.
 # Features
 .Add expenses to different categories
+
 .View total expenses by category
+
 .Clear all expenses
 # Usage
 1.Open the index.html file in your web browser.
